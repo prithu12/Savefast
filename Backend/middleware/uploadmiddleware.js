@@ -7,7 +7,7 @@ const fileFilter = (req, file, cb) => {
         'image/jpeg',
         'image/png',
         'image/jpg',
-        "image.webp",
+        "image/webp",
         "application/msword",
         "application/vnd.openxmlformats-officedocument.wordprocessingml.document",
         'application/pdf',
